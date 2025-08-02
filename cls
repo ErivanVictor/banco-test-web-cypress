@@ -1,0 +1,26 @@
+[33mcommit 48378e1bfd07519933b0614f8eb0017667e18376[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Erivan <erivanvictorev2b@gmail.com>
+Date:   Fri Aug 1 21:54:58 2025 -0300
+
+    adicionei um novo teste para credenciais invalidas
+
+[33mcommit e54cb49720b11d43b8465dee20616ed3625679fd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1ad0368 a919ea8
+Author: ErivanVictor <erivanvictorev2b@gmail.com>
+Date:   Fri Aug 1 18:25:12 2025 -0300
+
+    Merge pull request #1 from ErivanVictor/projeto-inicial
+    
+    adicionei os aquivo iniciais e o primeiro teste de login
+
+[33mcommit a919ea8517ca8835babee383996876be08593824[m[33m ([m[1;31morigin/projeto-inicial[m[33m, [m[1;32mprojeto-inicial[m[33m)[m
+Author: Erivan <erivanvictorev2b@gmail.com>
+Date:   Fri Aug 1 18:15:55 2025 -0300
+
+    adicionei os aquivo iniciais e o primeiro teste de login
+
+[33mcommit 1ad0368b8a4c0008dfa4137812bc8eee8c0394e9[m
+Author: ErivanVictor <erivanvictorev2b@gmail.com>
+Date:   Fri Aug 1 17:10:33 2025 -0300
+
+    Initial commit
