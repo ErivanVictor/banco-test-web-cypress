@@ -1,6 +1,6 @@
 describe('login', () => {
   beforeEach(() => {
-    cy.visit('http://localhost:4000')
+    cy.visit('/')
   })
   
   it('login com dados validos deve permitir o acesso', () => {
